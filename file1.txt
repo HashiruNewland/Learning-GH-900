@@ -1,3 +1,0 @@
-This is *italic* text.
-This is also _italic_ text.This is a text file
-Changes
